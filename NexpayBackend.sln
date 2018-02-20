@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexpayBackend", "NexpayBackend\NexpayBackend.csproj", "{ABBC71E8-AA4E-4681-818C-1816A4FFE87D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexpayBackend.Tests", "NexpayBackend.Tests\NexpayBackend.Tests.csproj", "{0130580D-C184-4A40-87AE-4EFEB03FE415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextpayBackend.Data", "NextpayBackend.Data\NextpayBackend.Data.csproj", "{23EE05FF-63CC-49B5-B9A5-3E318C35C06A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABBC71E8-AA4E-4681-818C-1816A4FFE87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBC71E8-AA4E-4681-818C-1816A4FFE87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBC71E8-AA4E-4681-818C-1816A4FFE87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBC71E8-AA4E-4681-818C-1816A4FFE87D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0130580D-C184-4A40-87AE-4EFEB03FE415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0130580D-C184-4A40-87AE-4EFEB03FE415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0130580D-C184-4A40-87AE-4EFEB03FE415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0130580D-C184-4A40-87AE-4EFEB03FE415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23EE05FF-63CC-49B5-B9A5-3E318C35C06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23EE05FF-63CC-49B5-B9A5-3E318C35C06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23EE05FF-63CC-49B5-B9A5-3E318C35C06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23EE05FF-63CC-49B5-B9A5-3E318C35C06A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\IntProjects\Nexpay\NextpayBackend.Data\bin\Debug\NextpayBackend.Data.dll
+C:\IntProjects\Nexpay\NextpayBackend.Data\bin\Debug\NextpayBackend.Data.pdb
+C:\IntProjects\Nexpay\NextpayBackend.Data\obj\Debug\NextpayBackend.Data.csprojResolveAssemblyReference.cache
+C:\IntProjects\Nexpay\NextpayBackend.Data\obj\Debug\NextpayBackend.Data.dll
+C:\IntProjects\Nexpay\NextpayBackend.Data\obj\Debug\NextpayBackend.Data.pdb
